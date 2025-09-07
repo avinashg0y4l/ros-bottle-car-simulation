@@ -1,0 +1,10 @@
+# Catkin build files
+build/
+devel/
+install/
+logs/
+
+# Other common files
+*.swp
+*~
+.catkin_tools/
